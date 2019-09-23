@@ -1,0 +1,12 @@
+body{
+    background-color: #dbdbdb;
+}
+img{
+    width: 100%;
+}
+#text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 75px;
+    color: #3F729B;
+    -webkit-text-stroke: 2.5px black;
+}
